@@ -137,9 +137,16 @@ function RelationPerson(props: { id: string | number }) {
   const connection = connections.find((c) => c.id === props.id);
   return !!connection ? (
     <PersonWrapper
-      width={
-        `${connection.firstName} ${connection.lastName}`.length * 8 + 50 + "px"
-      }
+      style={{
+        minWidth:
+          `${connection.firstName} ${connection.lastName}`.length * 10 +
+          44 +
+          "px",
+        maxWidth:
+          `${connection.firstName} ${connection.lastName}`.length * 10 +
+          44 +
+          "px",
+      }}
     >
       <NavLink to={`/add/${connection.id}`}>
         <Icon name="user" size="large" circular />
@@ -172,7 +179,7 @@ function CalculateSeparationLine(props: {
     );
     setState({
       content: relationType?.text || "Unknown",
-      width: !!relationType ? `${relationType?.text.length * 12}px` : "100px",
+      width: !!relationType ? `${relationType?.text.length * 15}px` : "100px",
     });
   }, [relations, relationTypes, props.id, props.refId]);
   return (

@@ -13,8 +13,7 @@ export const DegreeOfSeparationWrapper = styled.div`
 
 export const PersonWrapper = styled.div<IStyles>`
   padding-right: 12px;
-  min-width: ${(props) => props.width || "auto"};
-  max-width: ${(props) => props.width || "180px"}; ;
+  text-align: center;
 `;
 
 export const SeparationLine = styled.div<IStyles>`
