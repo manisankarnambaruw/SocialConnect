@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.3e764124.chunk.js": "/SocialConnect/static/js/0.3e764124.chunk.js",
+    "static/js/0.3e764124.chunk.js.map": "/SocialConnect/static/js/0.3e764124.chunk.js.map",
+    "static/js/1.226019d2.chunk.js": "/SocialConnect/static/js/1.226019d2.chunk.js",
+    "static/js/1.226019d2.chunk.js.map": "/SocialConnect/static/js/1.226019d2.chunk.js.map",
+    "static/js/2.40ac009d.chunk.js": "/SocialConnect/static/js/2.40ac009d.chunk.js",
+    "static/js/2.40ac009d.chunk.js.map": "/SocialConnect/static/js/2.40ac009d.chunk.js.map",
+    "main.css": "/SocialConnect/static/css/main.01d15a7d.chunk.css",
+    "main.js": "/SocialConnect/static/js/main.acb20782.chunk.js",
+    "main.js.map": "/SocialConnect/static/js/main.acb20782.chunk.js.map",
+    "runtime-main.js": "/SocialConnect/static/js/runtime-main.4c01b3da.js",
+    "runtime-main.js.map": "/SocialConnect/static/js/runtime-main.4c01b3da.js.map",
+    "static/css/5.015c6b0b.chunk.css": "/SocialConnect/static/css/5.015c6b0b.chunk.css",
+    "static/js/5.9fb0ac4a.chunk.js": "/SocialConnect/static/js/5.9fb0ac4a.chunk.js",
+    "static/js/5.9fb0ac4a.chunk.js.map": "/SocialConnect/static/js/5.9fb0ac4a.chunk.js.map",
+    "static/js/6.2db0926c.chunk.js": "/SocialConnect/static/js/6.2db0926c.chunk.js",
+    "static/js/6.2db0926c.chunk.js.map": "/SocialConnect/static/js/6.2db0926c.chunk.js.map",
+    "static/js/7.ad8b6c09.chunk.js": "/SocialConnect/static/js/7.ad8b6c09.chunk.js",
+    "static/js/7.ad8b6c09.chunk.js.map": "/SocialConnect/static/js/7.ad8b6c09.chunk.js.map",
+    "static/js/8.ce3e7b7b.chunk.js": "/SocialConnect/static/js/8.ce3e7b7b.chunk.js",
+    "static/js/8.ce3e7b7b.chunk.js.map": "/SocialConnect/static/js/8.ce3e7b7b.chunk.js.map",
+    "static/js/9.a023f0f8.chunk.js": "/SocialConnect/static/js/9.a023f0f8.chunk.js",
+    "static/js/9.a023f0f8.chunk.js.map": "/SocialConnect/static/js/9.a023f0f8.chunk.js.map",
+    "static/js/10.924567e8.chunk.js": "/SocialConnect/static/js/10.924567e8.chunk.js",
+    "static/js/10.924567e8.chunk.js.map": "/SocialConnect/static/js/10.924567e8.chunk.js.map",
+    "index.html": "/SocialConnect/index.html",
+    "service-worker.js": "/SocialConnect/service-worker.js",
+    "service-worker.js.map": "/SocialConnect/service-worker.js.map",
+    "static/css/5.015c6b0b.chunk.css.map": "/SocialConnect/static/css/5.015c6b0b.chunk.css.map",
+    "static/css/main.01d15a7d.chunk.css.map": "/SocialConnect/static/css/main.01d15a7d.chunk.css.map",
+    "static/js/0.3e764124.chunk.js.LICENSE.txt": "/SocialConnect/static/js/0.3e764124.chunk.js.LICENSE.txt",
+    "static/js/5.9fb0ac4a.chunk.js.LICENSE.txt": "/SocialConnect/static/js/5.9fb0ac4a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/SocialConnect/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c01b3da.js",
+    "static/css/5.015c6b0b.chunk.css",
+    "static/js/5.9fb0ac4a.chunk.js",
+    "static/css/main.01d15a7d.chunk.css",
+    "static/js/main.acb20782.chunk.js"
+  ]
+}
